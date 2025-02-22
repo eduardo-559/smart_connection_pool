@@ -3,6 +3,10 @@
 ## 📌 Introdução
 O **Smart Connection Pool** é um padrão de projeto que gerencia conexões com o banco de dados de forma eficiente, evitando desperdício de recursos e melhorando a escalabilidade do sistema. Ele permite que múltiplos clientes reutilizem conexões sem precisar criar novas a cada requisição.
 
+## 👥 Equipe
+- **Eduardo de Oliveira Sousa** – 510969  
+- **Murilo dos Santos Cunha** – 521441  
+
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem de programação:** Python  
 - **Gerenciamento de concorrência:** Multithreading  
@@ -33,7 +37,7 @@ smart_connection_pool/
 ## 🚀 Como Usar
 ### 📥 Clonando o repositório
 ```sh
-git clone https://github.com/eduardo-559/smart_connection_pool.git
+git clone https://github.com/seu_usuario/smart_connection_pool.git
 cd smart_connection_pool
 ```
 
